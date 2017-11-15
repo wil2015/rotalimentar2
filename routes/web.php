@@ -13,5 +13,5 @@
 
 Route::get('/', function () {
   /*  return view('welcome'); */
-    return view('rota.app2');
+    return view('rota.teste2');
 });

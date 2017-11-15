@@ -462,7 +462,7 @@
       }
       </script>
 
-      
+      <!--
       <div class="row">
         <div class="col-md-3 col-md-push-2">
           <div class="info">
@@ -509,7 +509,7 @@
             </form>
           </div>
         </div>
-
+        -->
       </div>
     </div>
   </section>
@@ -542,6 +542,6 @@
   <!-- #footer -->
 
 @endsection
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  
 
   

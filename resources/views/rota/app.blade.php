@@ -92,9 +92,16 @@
           <li><a href="#about">Quem Somos</a></li>
           <li><a href="#services">Nossos Serviços</a></li>
           <li><a href="#portfolio">Parceiros</a></li>
-          <li><a href="#testimonials">Testimonials</a></li>
-          <li><a href="#team">Team</a></li>
-          <li><a href="#contact">Contatenos</a></li>
+     <!--     <li><a href="#testimonials">Testimonials</a></li>
+          <li><a href="#team">Team</a></li>  -->
+          <li><a href="#contact">Contate-nos</a></li>
+          <li class="menu-has-children"><a href="">Marketplace</a>
+                <ul>
+                  <li><a href="#">Vendecores</a></li>
+                  <li><a href="#">Consumidores</a></li>
+                  <li><a href="#">Serviços</a></li>
+                </ul>
+          </li>
           <!--
           <li class="menu-has-children"><a href="">Drop Down</a>
 

@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace rota2\Http\Controllers\Auth;
 
-use App\User;
+use rota2\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use rota2\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\RegistersUsers;
 
 class RegisterController extends Controller

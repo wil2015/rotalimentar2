@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace rota2\Exceptions;
 
 use Exception;
 use Illuminate\Auth\AuthenticationException;

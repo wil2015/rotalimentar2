@@ -39,6 +39,49 @@
     <!-- Main Stylesheet File -->
     <link href="{{ asset ('css/style.css') }}" rel="stylesheet">
 
+      <style type="text/css">
+
+    .gallery
+
+    {
+
+        display: inline-block;
+
+        margin-top: 20px;
+
+    }
+
+    .close-icon{
+
+    	border-radius: 50%;
+
+        position: absolute;
+
+        right: 5px;
+
+        top: -10px;
+
+        padding: 5px 8px;
+
+    }
+
+    .form-image-upload{
+
+        background: #e8e8e8 none repeat scroll 0 0;
+
+        padding: 15px;
+
+    }
+
+    #produtos{
+      background-color: lightblue;
+      padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 400px;
+    padding-left: 80px;
+      
+    }
+    </style>
 
   
   <!-- =======================================================
@@ -49,7 +92,7 @@
   ======================================================= -->
 </head>
 
-<body>
+<body >
 
   @section('navigation')
   <div id="preloader"></div>
@@ -95,9 +138,9 @@
      <!--     <li><a href="#testimonials">Testimonials</a></li>
           <li><a href="#team">Team</a></li>  -->
           <li><a href="#contact">Contate-nos</a></li>
-          <li class="menu-has-children"><a href="">Marketplace</a>
+          <li class="menu-has-children"><a href="#produtos">Produtos Marketplace</a>
                 <ul>
-                  <li><a href="#">Vendecores</a></li>
+                  <li><a href="#testimonials2">teste Vendecores</a></li>
                   <li><a href="#">Consumidores</a></li>
                   <li><a href="#">Serviços</a></li>
                 </ul>
@@ -133,10 +176,11 @@
   </header>
   <!-- #header -->
   @show
- 
+  @yield('produtos')
   <!--==========================
   About Section
   ============================-->
+ 
   @yield('nos')
   
 
@@ -149,14 +193,14 @@
 
   @yield('portifolio')
   <!--==========================
-  Testimonials Section
+  Testimonials Section 
   ============================-->
-  @yield('testemunhas')
-
+  
+ 
   <!--==========================
   Team Section
   ============================-->
-  @yield('equipe')
+
   <!--==========================
   Contact Section
   ============================-->
@@ -164,6 +208,7 @@
   <!--==========================
   Footer
 ============================-->
+ @yield('produtos')
 @yield('rodape')
 
 

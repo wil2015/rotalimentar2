@@ -470,7 +470,7 @@
 @endsection
   
 
-@section('teste')
+@section('produtos_velho')
   <section id="produtos">
     
   <div class="container wow fadeInUp">
@@ -601,5 +601,69 @@
     </div> <!-- row / end -->
 
 </div> <!-- container / end -->
+  </section>
+@endsection
+
+
+@section('produtos')
+  <section id="produtos">
+     
+		
+      <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-md-12">
+              <h3 class="section-title">Produtos em Oferta</h3>
+              <div class="section-title-divider"></div>
+              <p class="section-description">Mostre aqui o seu produto</p>
+            </div>
+          </div>
+
+                    
+
+          @if($images->count())
+
+              
+              <div class='table-responsive'>
+                    <table class="table table-striped table-bordered">
+                      <thead class="thead-dark">
+                        <tr class="text-center">
+                          <th>#</th>
+                          <th>Produto</th>
+                          <th>Descrição</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                  
+                        @foreach($images as $image)
+
+                            <tr>
+
+                              <td> 
+                                    <p class="list-group-item-text">{{ $image->id }} </p>
+                              </td>
+
+                              <td>   
+                                
+                                    <img class="img-responsive" alt="" src="/images/{{ $image->image }}" width="304" height="228" />
+                                  
+                              </td>
+                              
+                              <Td>
+                                    <p class="list-group-item-text">{{ $image->title }} </p>
+                              </td>
+                            </tr>                   
+
+                                          
+                        @endforeach
+                      </tbody>
+                    </table>
+              
+              </div> <!-- col-6 / end -->
+
+              
+          @endif
+         
+
+      </div> <!-- container / end -->
   </section>
 @endsection

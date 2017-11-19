@@ -38,6 +38,7 @@
   
     <!-- Main Stylesheet File -->
     <link href="{{ asset ('css/style.css') }}" rel="stylesheet">
+   
 
       <style type="text/css">
 
@@ -81,6 +82,16 @@
     padding-left: 80px;
       
     }
+    a.list-group-item {
+    height:auto;
+    min-height:220px;
+    }
+    a.list-group-item.active small {
+        color:#fff;
+    }
+    .stars {
+        margin:20px auto 1px;    
+    }
     </style>
 
   
@@ -90,6 +101,7 @@
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
   ======================================================= -->
+   
 </head>
 
 <body >
@@ -138,11 +150,12 @@
      <!--     <li><a href="#testimonials">Testimonials</a></li>
           <li><a href="#team">Team</a></li>  -->
           <li><a href="#contact">Contate-nos</a></li>
-          <li class="menu-has-children"><a href="#produtos">Produtos Marketplace</a>
+          <li class="menu-has-children"><a href="#produtos">Marketplace</a>
                 <ul>
-                  <li><a href="#testimonials2">teste Vendecores</a></li>
-                  <li><a href="#">Consumidores</a></li>
+                  <li><a href="#produtos">Ofertas</a></li>
+                  <li><a href="#">Compradores</a></li>
                   <li><a href="#">Serviços</a></li>
+                   <li><a href="#">Mercado Futuro</a></li>
                 </ul>
           </li>
           <!--
@@ -227,7 +240,7 @@
  <script src="{{ asset('js/custom.js') }}"></script>
 
  <script src="{{ asset('contactform/contactform.js') }}"></script>
- 
+  
   
 
 </body>

@@ -194,7 +194,7 @@
         </div>
         <div class="col-md-3">
             
-            <img src="img/parceiros/logook.gif"  class="img-thumbnail" alt="Cinque Terre">
+            <img src="img/parceiros/gandini.jpeg"  class="img-thumbnail" alt="Cinque Terre">
                       
         </div>
 

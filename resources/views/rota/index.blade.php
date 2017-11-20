@@ -15,7 +15,7 @@
           <div class="col-md-12"></div>
           <div class="embed-responsive embed-responsive-16by9 col-md-12">
               
-              <iframe class="embed-responsive-item" width="800" height="400" style="max-width:640px; max-height:380px;" src="https://www.youtube-nocookie.com/embed/7jvJ6x_YVKw" frameborder="0" allowfullscreen></iframe>
+              <iframe class="embed-responsive-item" width="460" height="315" src="https://www.youtube.com/embed/z1O50PyisIE?rel=0" frameborder="0" allowfullscreen></iframe>
            <!--   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe> -->
             </div>
         </div>
@@ -615,7 +615,7 @@
 @endsection
 
 
-@section('produtos')
+@section('produtos_emcontrucao')
   <section id="produtos">
      
 		
@@ -672,6 +672,30 @@
 
               
           @endif
+         
+
+      </div> <!-- container / end -->
+  </section>
+@endsection
+
+
+
+@section('produtos')
+  <section id="produtos">
+     
+		
+      <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-md-12">
+              <h3 class="section-title">Marketplace</h3>
+              <div class="section-title-divider"></div>
+              <p class="section-description">Em Construção</p>
+            </div>
+          </div>
+
+                 
+
+         
          
 
       </div> <!-- container / end -->

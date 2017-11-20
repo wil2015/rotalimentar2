@@ -178,13 +178,23 @@
 
         <div class="col-md-3">
 
-            <img src="img/parceiros/snake.jpg"  class="img-thumbnail" alt="Cinque Terre">
+            <img src="img/parceiros/Suppliers.png"  class="img-thumbnail" alt="Cinque Terre">
           
         </div>
 
         <div class="col-md-3">
             
-                        <img src="img/parceiros/translog.png"  class="img-thumbnail" alt="Cinque Terre">
+            <img src="img/parceiros/servconvex.png"  class="img-thumbnail" alt="Cinque Terre">
+                      
+        </div>
+         <div class="col-md-3">
+            
+            <img src="img/parceiros/beto.png"  class="img-thumbnail" alt="Cinque Terre">
+                      
+        </div>
+        <div class="col-md-3">
+            
+            <img src="img/parceiros/logook.gif"  class="img-thumbnail" alt="Cinque Terre">
                       
         </div>
 

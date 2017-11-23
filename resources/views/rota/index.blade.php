@@ -18,16 +18,16 @@
       </div>
         <div class="row">
               <div class="col-md-6">
-                  <div class="embed-responsive embed-responsive-4by3">
+                  <div class="embed-responsive embed-responsive-16by9 ">
                       
-                      <iframe class="embed-responsive-item" style="max-width:560px; max-height:315px;" src="https://www.youtube.com/embed/rSd-VWQGkvk" frameborder="0" allowfullscreen></iframe>
+                      <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/rSd-VWQGkvk" frameborder="0" allowfullscreen></iframe>
                   <!--   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe> -->
                   </div>
               </div>                          
               <div class="col-md-6">  
-                  <div class="embed-responsive embed-responsive-4by3">
+                  <div class="embed-responsive embed-responsive-16by9">
                       
-                      <iframe class="embed-responsive-item" style="max-width:560px; max-height:315px;" src="https://www.youtube.com/embed/aiO25Qq7n0Y" frameborder="0" allowfullscreen></iframe>
+                      <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/aiO25Qq7n0Y" frameborder="0" allowfullscreen></iframe>
                   <!--   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe> -->
                   </div>
               </div>

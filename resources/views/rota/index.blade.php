@@ -9,9 +9,9 @@
     <div class="container wow fadeInUp">
       <div class="row">
         <div class="col-md-12">
-          <h3 class="section-title">Conheca a Rota Alimentar</h3>
+          <h3 class="section-title">Conhecam a Rotalimentar</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">O seu parceiro para atividades voltadas a agricultura sustentavel</p>
+          <p class="section-description">O seu parceiro para atividades voltadas ao agronegócio</p>
              
                
         </div>
@@ -50,15 +50,15 @@
         <div class="col-md-12">
           <h3 class="section-title">Nossos Serviços</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
+          <p class="section-description">O seu parceiro para atividades voltadas ao agronegócio</p>
         </div>
       </div>
 
       <div class="row">
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-desktop"></i></div>
-          <h4 class="service-title"><a href="">Negocios</a></h4>
-          <p class="service-description">Reunir vendedores e compradores idoneos Divulgaçao dos seu produto no nosso markeplace</p>
+          <h4 class="service-title"><a href="">Negócios</a></h4>
+          <p class="service-description">Assistência em Biotecnologia, manejo e agricultura orgânica. De olho na agricultura sustentável</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
@@ -67,23 +67,23 @@
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
-          <h4 class="service-title"><a href="">Logistica</a></h4>
-          <p class="service-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+          <h4 class="service-title"><a href="">Logística</a></h4>
+          <p class="service-description">Qualidade e economia na entrega de seu produto</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-photo"></i></div>
           <h4 class="service-title"><a href="">Ecologicamente Correto</a></h4>
-          <p class="service-description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+          <p class="service-description">Na busca de Certificações em agricultura e Sustentabilidade</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-road"></i></div>
           <h4 class="service-title"><a href="">Bom Para todos</a></h4>
-          <p class="service-description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+          <p class="service-description">Serviços de assessoria/consultoria para empresa solucionar problemas com pessoal de confiança e experiente</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
-          <h4 class="service-title"><a href="">Legislação</a></h4>
-          <p class="service-description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+          <h4 class="service-title"><a href="">Marketplace</a></h4>
+          <p class="service-description">Uma Plataforma aberta à todos os participantes de pequenas, médias e grandes empresas, sejam elas: Fazendas agrícolas ou pecuárias, industrias e multinacionais (alimentos, bebidas e rações) e comércio de alimentos/bebidas/rações (distribuidores, supermercados, restaurantes, petshops, etc).</p>
         </div>
       </div>
     </div>
@@ -119,7 +119,7 @@
         <div class="col-md-12">
           <h3 class="section-title">Parceiros</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">Algusn dos Nossos Colaboradores</p>
+          <p class="section-description">Alguns dos Nossos Colaboradores</p>
         </div>
       </div>
 
@@ -143,13 +143,13 @@
 
         <div class="col-md-3">
 
-            <img src="img/parceiros/masterpan.png"  class="img-thumbnail" alt="Cinque Terre">
+            <img src="img/parceiros/DHN.jpg"  class="img-thumbnail" alt="Cinque Terre">
           
         </div>
 
         <div class="col-md-3">
 
-            <img src="img/parceiros/netpan.png"  class="img-thumbnail" alt="Cinque Terre">
+            <img src="img/parceiros/JAT.jpg"  class="img-thumbnail" alt="Cinque Terre">
           
         </div>
 
@@ -175,10 +175,14 @@
             <img src="img/parceiros/beto.png"  class="img-thumbnail" alt="Cinque Terre">
                       
         </div>
+
         <div class="col-md-3">
-            
-            <img src="img/parceiros/gandini.jpeg"  class="img-thumbnail" alt="Cinque Terre">
-                      
+             <div class="hovereffect">
+            <img src="img/parceiros/gandini.jpeg"  alt="Cinque Terre" class="img-thumbnail">
+              <div class="overlay">
+               <p class="info">OAB 9999 !</p>
+               </div>
+               </div>
         </div>
 
       </div>
@@ -663,7 +667,7 @@
 
 
 
-@section('produtos')
+@section('produtosxxxxxxxx')
   <section id="produtos">
      
 		

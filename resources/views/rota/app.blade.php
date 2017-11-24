@@ -92,6 +92,90 @@
     .stars {
         margin:20px auto 1px;    
     }
+
+   .hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align:center;
+  cursor: default;
+}
+.hovereffect .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  background-color: transperent;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.hovereffect:hover .overlay {
+  background-color: rgba(255, 255, 255);
+}
+.hovereffect img {
+  display: block;
+  position: relative;
+}
+.hovereffect h2 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: right;
+  position: relative;
+  font-size: 17px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.6);
+  -webkit-transform: translateY(90px);
+  -ms-transform: translateY(90px);
+  transform: translateY(90px);
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.hovereffect:hover h2 {
+  -webkit-transform: translateY(5px);
+  -ms-transform: translateY(5px);
+  transform: translateY(5px);
+  margin:0px;
+}
+
+.hovereffect p.info {
+  display: inline-block;
+  text-decoration: none;
+  padding: 7px 14px;
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: transparent;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  font-weight: normal;
+  margin: 7px;
+}
+
+.hovereffect:hover p.info {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.hovereffect p.info:hover {
+  box-shadow: 0 0 5px #fff;
+}
+
+
+
     </style>
 
   
@@ -119,8 +203,8 @@
           <img class=""  src="{{ asset('img/logo.png') }}" alt="Imperial">
         </div>
 
-        <h1>Benvindo a Rota Aliemntar</h1>
-        <h2>Nos ajudamos <span class="rotating">Compradores, Vendedores, Certificadores</span></h2>
+        <h1>Benvindo a RotaAlimentar</h1>
+        <h2>Nós auxiliamos <span class="rotating">Fornecedores, Compradores</span></h2>
         <div class="actions">
           <a href="#about" class="btn-get-started">Iniciando</a>
           <a href="#services" class="btn-services">Nossos Serviços</a>
@@ -152,10 +236,10 @@
           <li><a href="#contact">Contate-nos</a></li>
           <li class="menu-has-children"><a href="#produtos">Marketplace</a>
                 <ul>
-                  <li><a href="#produtos">Ofertas</a></li>
-                  <li><a href="#">Compradores</a></li>
-                  <li><a href="#">Serviços</a></li>
-                   <li><a href="#">Mercado Futuro</a></li>
+                  <li><a href="">Em Construçãos</a></li>
+       <!--           <li><a href="#">Compradores</a></li>
+                  <li><a href="">Serviços</a></li>
+                   <li><a href="">Mercado Futuro</a></li>  -->
                 </ul>
           </li>
           <!--

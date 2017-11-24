@@ -203,7 +203,7 @@
           <img class=""  src="{{ asset('img/logo.png') }}" alt="Imperial">
         </div>
 
-        <h1>Benvindo a RotaAlimentar</h1>
+        <h1>BeM vindo a Rota Alimentar</h1>
         <h2>Nós auxiliamos <span class="rotating">Fornecedores, Compradores</span></h2>
         <div class="actions">
           <a href="#about" class="btn-get-started">Iniciando</a>

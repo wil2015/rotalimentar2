@@ -9,7 +9,7 @@
     <div class="container wow fadeInUp">
       <div class="row">
         <div class="col-md-12">
-          <h3 class="section-title">Conhecam a Rotalimentar</h3>
+          <h3 class="section-title">Conheçam a Rotalimentar</h3>
           <div class="section-title-divider"></div>
           <p class="section-description">O seu parceiro para atividades voltadas ao agronegócio</p>
              
@@ -58,12 +58,12 @@
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-desktop"></i></div>
           <h4 class="service-title"><a href="">Negócios</a></h4>
-          <p class="service-description">Assistência em Biotecnologia, manejo e agricultura orgânica. De olho na agricultura sustentável</p>
+          <p class="service-description">Reunir Compradores e Vendedores Idoneos</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
           <h4 class="service-title"><a href="">Controle de Pragas</a></h4>
-          <p class="service-description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+          <p class="service-description"> Assistência em Biotecnologia, manejo e agricultura orgânica. De olho na agricultura sustentável.</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-paper-plane"></i></div>

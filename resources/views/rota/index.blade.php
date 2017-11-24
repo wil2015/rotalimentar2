@@ -58,7 +58,7 @@
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-desktop"></i></div>
           <h4 class="service-title"><a href="">Negócios</a></h4>
-          <p class="service-description">Reunir Compradores e Vendedores Idoneos</p>
+          <p class="service-description">Reunir Compradores e Vendedores Idoneos. Divulgação do seu produto em nosso Marketplace.</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
@@ -73,7 +73,7 @@
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-photo"></i></div>
           <h4 class="service-title"><a href="">Ecologicamente Correto</a></h4>
-          <p class="service-description">Na busca de Certificações em agricultura e Sustentabilidade</p>
+          <p class="service-description">Na busca de Certificações em agricultura e Sustentabilidade.</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-road"></i></div>
@@ -83,7 +83,7 @@
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
           <h4 class="service-title"><a href="">Marketplace</a></h4>
-          <p class="service-description">Uma Plataforma aberta à todos os participantes de pequenas, médias e grandes empresas, sejam elas: Fazendas agrícolas ou pecuárias, industrias e multinacionais (alimentos, bebidas e rações) e comércio de alimentos/bebidas/rações (distribuidores, supermercados, restaurantes, petshops, etc).</p>
+          <p class="service-description">Uma Plataforma aberta à todos as empresas da área alimentar (humana e animal): Fazendas agrícolas ou pecuárias, industrias, multinacionais e comércio.</p>
         </div>
       </div>
     </div>
@@ -142,46 +142,68 @@
         </div>
 
         <div class="col-md-3">
-
+            <div class="hovereffect">
             <img src="img/parceiros/DHN.jpg"  class="img-thumbnail" alt="Cinque Terre">
-          
+            <div class="overlay">
+               <p class="info">DHN - Comercialização de diversas commodities, principalmente açúcar para exportação e mercado interno.</p>
+             </div>
+            </div>
         </div>
 
         <div class="col-md-3">
-
-            <img src="img/parceiros/JAT.jpg"  class="img-thumbnail" alt="Cinque Terre">
-          
+            <div class="hovereffect">
+              <img src="img/parceiros/JAT.jpg"  class="img-thumbnail" alt="Cinque Terre">
+              <div class="overlay">
+                <p class="info">JAT Comm - Comercialização de commodities e consultoria de novos negócios no mercado nacional e internacional.</p>
+              </div>
+            </div>
         </div>
 
         <div class="col-md-3">
-
+            <div class="hovereffect">
             <img src="img/parceiros/ream.png"  class="img-thumbnail" alt="Cinque Terre">
-         
+             <div class="overlay">
+                <p class="info">Serciços em RH e cursos direcionados ao agronegocio.</p>
+              </div>
+             </div>
         </div>
 
         <div class="col-md-3">
-
+             <div class="hovereffect">
             <img src="img/parceiros/Suppliers.png"  class="img-thumbnail" alt="Cinque Terre">
-          
+            <div class="overlay">
+               <p class="info">Empresa Internacional especializada em comércio Global.</p>
+             </div>
+            </div>
         </div>
 
         <div class="col-md-3">
-            
+            <div class="hovereffect">
             <img src="img/parceiros/servconvex.png"  class="img-thumbnail" alt="Cinque Terre">
-                      
+            <div class="overlay">
+               <p class="info">Empresa especializada em logística direcionada ao comércio exterior, seja importação e/ou exportação.</p>
+             </div>
+            </div>          
         </div>
          <div class="col-md-3">
             
             <img src="img/parceiros/beto.png"  class="img-thumbnail" alt="Cinque Terre">
+            <div class="hovereffect">
+                 <img src="img/parceiros/beto.png"  class="img-thumbnail" alt="Cinque Terre">
+                
+                  <div class="overlay">
+                        <p class="info">Comercialização de mudas em geral.</p>
+                  </div>
+               </div>
                       
         </div>
 
         <div class="col-md-3">
              <div class="hovereffect">
-            <img src="img/parceiros/gandini.jpeg"  alt="Cinque Terre" class="img-thumbnail">
-              <div class="overlay">
-               <p class="info">OAB 9999 !</p>
-               </div>
+                <img src="img/parceiros/gandini.jpeg"  alt="Cinque Terre" class="img-thumbnail">
+                  <div class="overlay">
+                        <p class="info"> Contabilidade e Assessoria Empresarial Advogado Ricardo Gandini (OAB/MS 15.209) Contador Sebastião Gandini.</p>
+                  </div>
                </div>
         </div>
 

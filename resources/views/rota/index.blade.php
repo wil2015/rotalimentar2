@@ -21,14 +21,12 @@
                   <div class="embed-responsive embed-responsive-16by9 ">
                       
                       <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/rSd-VWQGkvk" frameborder="0" allowfullscreen></iframe>
-                  <!--   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe> -->
                   </div>
               </div>                          
               <div class="col-md-6">  
                   <div class="embed-responsive embed-responsive-16by9">
                       
                       <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/aiO25Qq7n0Y" frameborder="0" allowfullscreen></iframe>
-                  <!--   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe> -->
                   </div>
               </div>
         </div>       
@@ -58,7 +56,7 @@
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-desktop"></i></div>
           <h4 class="service-title"><a href="">Negócios</a></h4>
-          <p class="service-description">Reunir Compradores e Vendedores Idoneos. Divulgação do seu produto em nosso Marketplace.</p>
+          <p class="service-description">Reunir Compradores e Vendedores Idôneos. Divulgação do seu produto em nosso Marketplace.</p>
         </div>
         <div class="col-md-4 service-item">
           <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
@@ -99,7 +97,7 @@
       <div class="row">
         <div class="col-md-8">
           <h3 class="subscribe-title">Assine nossas Noticiass</h3>
-          <p class="subscribe-text">Join our 1000+ subscribers and get access to the latest tools, freebies, product announcements and much more!</p>
+          <p class="subscribe-text">Fique por dentro das novidades do agronegócio</p>
         </div>
         <div class="col-md-4 subscribe-btn-container">
           <a class="subscribe-btn" href="#">Assine</a>
@@ -124,25 +122,27 @@
       </div>
 
       <div class="row">
-        <div class="col-md-3 hovereffect">
-            <img src="img/parceiros/akifaz2.png"  class="img-thumbnail" alt=""  width="420" height="320">
-            <div class="overlay">
-                 <p class="info">Comercialização e fabricação da cor da tinta para automoveis ou qualquer outro metal.</p>
-             </div>
+        
+        <div class=" col-md-3 hovereffect">
             
-        </div>
-
+                <img src="img/parceiros/servconvex.png"  class="img-thumbnail" alt="Cinque Terre">
+                <div class="overlay">
+                  <p class="info">Especializada em logística direcionada ao comércio exterior, seja importação e/ou exportação.</p>
+                </p>
+                </div>
+             
+            </div>         
         <div class="col-md-3 hovereffect">
             <img src="img/parceiros/beta2.jpg"  class="img-thumbnail" alt="">
             <div class="overlay">
-               <p class="info">Consultorias, projetos e equipamentos em gastrnomia. <a href="http://www.servcomex.com.br/">Site</a></p>
+               <p class="info">Consultorias, projetos e equipamentos em gastrnomia. </p>
              </div>
         </div>
 
         <div class="col-md-3 hovereffect">
             <img src="img/parceiros/cengesa.jpg"  class="img-thumbnail" alt="">
              <div class="overlay">
-               <p class="info">CENGESA – Valdo Pistorio Hugo Ferro ---- Autônomo Commodities</p>
+               <p class="info">CENGESA – Valdo Pistorio </p>
              </div>
         </div>
 
@@ -157,12 +157,12 @@
 
         <div class="col-md-3">
             <div class="hovereffect">
-            <a href="https://www.dhnbtrade.com/" target="_blank">
+            
                 <img src="img/parceiros/DHN.jpg"  class="img-thumbnail" alt="Cinque Terre">
                 <div class="overlay">
-                  <p class="info">DHN - Comercialização de diversas commodities, principalmente açúcar para exportação e mercado interno.</p>
+                  <p class="info">Comercialização de diversas commodities, principalmente açúcar para exportação e mercado interno.</p>
                 </div>
-            </a>
+          
             </div>
         </div>
 
@@ -170,7 +170,7 @@
             <div class="hovereffect">
               <img src="img/parceiros/JAT.jpg"  class="img-thumbnail" alt="Cinque Terre">
               <div class="overlay">
-                <p class="info">JAT Comm - Comercialização de commodities e consultoria de novos negócios no mercado nacional e internacional.</p>
+                <p class="info">Comercialização de commodities e consultoria de novos negócios no mercado nacional e internacional.</p>
               </div>
             </div>
         </div>
@@ -186,26 +186,24 @@
 
         <div class="col-md-3">
              <div class="hovereffect">
-             <a href="http://www.suppliersabroad.com/" target="_blank">
+            
                 <img src="img/parceiros/Suppliers.png"  class="img-thumbnail" alt="Cinque Terre">
                 <div class="overlay">
                    
                   <p class="info">Empresa Internacional especializada em comércio Global.</p>
                 </div>
-              </a>
+              
             </div>
         </div>
 
         <div class="col-md-3">
-            <div class="hovereffect">
-            <a href="http://www.servcomex.com.br/" target="_blank">
-                <img src="img/parceiros/servconvex.png"  class="img-thumbnail" alt="Cinque Terre">
-                <div class="overlay">
-                  <p class="info">Empresa especializada em logística direcionada ao comércio exterior, seja importação e/ou exportação.</p>
-                </p>
-                </div>
-              </a>
-            </div>          
+             <div class="hovereffect">
+            <img src="img/parceiros/akifaz2.png"  class="img-responsive" alt=""  style="display: block; max-width:100%;  height:auto;">
+            <div class="overlay">
+                 <p class="info">Comercialização e fabricação da cor da tinta para automoveis ou qualquer outro metal.</p>
+             </div>
+            
+        </div>
         </div>
          <div class="col-md-3">
             
@@ -221,9 +219,11 @@
 
         <div class="col-md-3">
              <div class="hovereffect">
-                <img src="img/parceiros/gandini.jpeg"  alt="Cinque Terre" class="img-thumbnail">
+                <img src="img/parceiros/gandini.jpeg"  alt="" class="img-thumbnail" style="display: block; max-width:120%  height:auto;">
                   <div class="overlay">
-                       <p class="info"> Contabilidade e Assessoria Empresarial Advogado Ricardo Gandini (OAB/MS 15.209) Contador Sebastião Gandini.</p>
+                       <p class="info">Contabilidade e Assessoria Empresarial Advogado Ricardo Gandini (OAB/MS 15.209) Contador Sebastião Gandini.  </p>
+                       
+                  </div>
                   </div>
                </div>
         </div>

@@ -165,9 +165,9 @@
 .hovereffect:hover p.info {
   opacity: 0.8;
   filter: alpha(opacity=100);
-  -webkit-transform: scale(1);
-  -ms-transform: scale(1);
-  transform: scale(1);
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
 }
 
 .hovereffect p.info:hover {

@@ -142,7 +142,7 @@
         <div class="col-md-3 hovereffect">
             <img src="img/parceiros/cengesa.jpg"  class="img-thumbnail" alt="">
              <div class="overlay">
-               <p class="info">CENGESA – Valdo Pistorio </p>
+               <p class="info">Valdo Pistorio - Centro Gestor de Agronegócio</p>
              </div>
         </div>
 

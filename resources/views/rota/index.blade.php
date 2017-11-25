@@ -149,6 +149,7 @@
         <div class="col-md-3 hovereffect">
             <img src="img/parceiros/ibecon.png"  class="img-thumbnail" alt="">
             <div class="overlay">
+            
                <p class="info">Comunidade online de agricultores do Brasil.</p>
              </div>
          

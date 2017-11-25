@@ -149,7 +149,7 @@
         <div class="col-md-3 hovereffect">
             <img src="img/parceiros/ibecon.png"  class="img-thumbnail" alt="">
             <div class="overlay">
-            
+
                <p class="info">Comunidade online de agricultores do Brasil.</p>
              </div>
          
@@ -223,8 +223,7 @@
              <div class="hovereffect">
                 <img src="img/parceiros/gandini.jpeg"  alt="Cinque Terre" class="img-thumbnail">
                   <div class="overlay">
-                        <h2>Image heading</h2>
-                        <p class="info"> Contabilidade e Assessoria Empresarial Advogado Ricardo Gandini (OAB/MS 15.209) Contador Sebastião Gandini.</p>
+                       <p class="info"> Contabilidade e Assessoria Empresarial Advogado Ricardo Gandini (OAB/MS 15.209) Contador Sebastião Gandini.</p>
                   </div>
                </div>
         </div>

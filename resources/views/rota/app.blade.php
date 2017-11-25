@@ -148,9 +148,9 @@
   text-decoration: none;
   padding: 7px 14px;
   text-transform: uppercase;
-  color: #fff;
+  color: #000;
   border: 1px solid #fff;
-  background-color: transparent;
+  background-color: yellow;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transform: scale(0);
@@ -163,7 +163,7 @@
 }
 
 .hovereffect:hover p.info {
-  opacity: 1;
+  opacity: 0.8;
   filter: alpha(opacity=100);
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
@@ -175,8 +175,7 @@
 }
 
 
-
-    </style>
+</style>
 
   
   <!-- =======================================================
@@ -273,7 +272,7 @@
   </header>
   <!-- #header -->
   @show
-  @yield('produtos')
+  @yield('produtosnnnnn')
   <!--==========================
   About Section
   ============================-->
@@ -324,8 +323,7 @@
  <script src="{{ asset('js/custom.js') }}"></script>
 
  <script src="{{ asset('contactform/contactform.js') }}"></script>
-  
-  
+
 
 </body>
 

@@ -10,8 +10,9 @@ class Rota_controller extends Controller
 
     public function index()
     {
-        $images = Produto::get();
-        return view('rota.index', compact('images'));
+       // $images = Produto::get();
+       //  return view('rota.index', compact('images'));
+        return view('rota.index');
     }
         
     public function upload2()

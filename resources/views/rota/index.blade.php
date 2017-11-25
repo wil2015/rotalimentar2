@@ -124,29 +124,44 @@
       </div>
 
       <div class="row">
-        <div class="col-md-3">
-            <img src="img/parceiros/akifaz2.png"  class="img-thumbnail" alt="Cinque Terre">
+        <div class="col-md-3 hovereffect">
+            <img src="img/parceiros/akifaz2.png"  class="img-thumbnail" alt=""  width="420" height="320">
+            <div class="overlay">
+                 <p class="info">Comercialização e fabricação da cor da tinta para automoveis ou qualquer outro metal.</p>
+             </div>
+            
         </div>
 
-        <div class="col-md-3">
-            <img src="img/parceiros/beta2.jpg"  class="img-thumbnail" alt="Cinque Terre">
+        <div class="col-md-3 hovereffect">
+            <img src="img/parceiros/beta2.jpg"  class="img-thumbnail" alt="">
+            <div class="overlay">
+               <p class="info">Consultorias, projetos e equipamentos em gastrnomia. <a href="http://www.servcomex.com.br/">Site</a></p>
+             </div>
         </div>
 
-        <div class="col-md-3">
-            <img src="img/parceiros/cengesa.jpg"  class="img-thumbnail" alt="Cinque Terre">
+        <div class="col-md-3 hovereffect">
+            <img src="img/parceiros/cengesa.jpg"  class="img-thumbnail" alt="">
+             <div class="overlay">
+               <p class="info">CENGESA – Valdo Pistorio Hugo Ferro ---- Autônomo Commodities</p>
+             </div>
         </div>
 
-        <div class="col-md-3">
-            <img src="img/parceiros/ibecon.png"  class="img-thumbnail" alt="Cinque Terre">
+        <div class="col-md-3 hovereffect">
+            <img src="img/parceiros/ibecon.png"  class="img-thumbnail" alt="">
+            <div class="overlay">
+               <p class="info">Comunidade online de agricultores do Brasil.</p>
+             </div>
          
         </div>
 
         <div class="col-md-3">
             <div class="hovereffect">
-            <img src="img/parceiros/DHN.jpg"  class="img-thumbnail" alt="Cinque Terre">
-            <div class="overlay">
-               <p class="info">DHN - Comercialização de diversas commodities, principalmente açúcar para exportação e mercado interno.</p>
-             </div>
+            <a href="https://www.dhnbtrade.com/" target="_blank">
+                <img src="img/parceiros/DHN.jpg"  class="img-thumbnail" alt="Cinque Terre">
+                <div class="overlay">
+                  <p class="info">DHN - Comercialização de diversas commodities, principalmente açúcar para exportação e mercado interno.</p>
+                </div>
+            </a>
             </div>
         </div>
 
@@ -163,32 +178,37 @@
             <div class="hovereffect">
             <img src="img/parceiros/ream.png"  class="img-thumbnail" alt="Cinque Terre">
              <div class="overlay">
-                <p class="info">Serciços em RH e cursos direcionados ao agronegocio.</p>
+                <p class="info">Serviços em RH e cursos direcionados ao agronegocio.</p>
               </div>
              </div>
         </div>
 
         <div class="col-md-3">
              <div class="hovereffect">
-            <img src="img/parceiros/Suppliers.png"  class="img-thumbnail" alt="Cinque Terre">
-            <div class="overlay">
-               <p class="info">Empresa Internacional especializada em comércio Global.</p>
-             </div>
+             <a href="http://www.suppliersabroad.com/" target="_blank">
+                <img src="img/parceiros/Suppliers.png"  class="img-thumbnail" alt="Cinque Terre">
+                <div class="overlay">
+                   
+                  <p class="info">Empresa Internacional especializada em comércio Global.</p>
+                </div>
+              </a>
             </div>
         </div>
 
         <div class="col-md-3">
             <div class="hovereffect">
-            <img src="img/parceiros/servconvex.png"  class="img-thumbnail" alt="Cinque Terre">
-            <div class="overlay">
-               <p class="info">Empresa especializada em logística direcionada ao comércio exterior, seja importação e/ou exportação.</p>
-             </div>
+            <a href="http://www.servcomex.com.br/" target="_blank">
+                <img src="img/parceiros/servconvex.png"  class="img-thumbnail" alt="Cinque Terre">
+                <div class="overlay">
+                  <p class="info">Empresa especializada em logística direcionada ao comércio exterior, seja importação e/ou exportação.</p>
+                </p>
+                </div>
+              </a>
             </div>          
         </div>
          <div class="col-md-3">
             
-            <img src="img/parceiros/beto.png"  class="img-thumbnail" alt="Cinque Terre">
-            <div class="hovereffect">
+               <div class="hovereffect">
                  <img src="img/parceiros/beto.png"  class="img-thumbnail" alt="Cinque Terre">
                 
                   <div class="overlay">
@@ -202,6 +222,7 @@
              <div class="hovereffect">
                 <img src="img/parceiros/gandini.jpeg"  alt="Cinque Terre" class="img-thumbnail">
                   <div class="overlay">
+                        <h2>Image heading</h2>
                         <p class="info"> Contabilidade e Assessoria Empresarial Advogado Ricardo Gandini (OAB/MS 15.209) Contador Sebastião Gandini.</p>
                   </div>
                </div>
@@ -488,225 +509,3 @@
 
 @endsection
   
-
-@section('produtos_velho')
-  <section id="produtos">
-    
-  <div class="container wow fadeInUp">
-     <div class="row">
-        <div class="col-md-12">
-          <h3 class="section-title">vendas</h3>
-          <div class="section-title-divider"></div>
-          <p class="section-description">Laravel - Image Gallery CRUD Example</p>
-        </div>
-      </div>
-
-    
-
-    <form action="{{ url('index') }}" class="form-image-upload" method="POST" enctype="multipart/form-data">
-
-
-        {!! csrf_field() !!}
-
-
-        @if (count($errors) > 0)
-
-            <div class="alert alert-danger">
-
-                <strong>Whoops!</strong> There were some problems with your input.<br><br>
-
-                <ul>
-
-                    @foreach ($errors->all() as $error)
-
-                        <li>{{ $error }}</li>
-
-                    @endforeach
-
-                </ul>
-
-            </div>
-
-        @endif
-
-
-        @if ($message = Session::get('success'))
-
-        <div class="alert alert-success alert-block">
-
-            <button type="button" class="close" data-dismiss="alert">×</button>
-
-                <strong>{{ $message }}</strong>
-
-        </div>
-
-        @endif
-
-
-        <div class="row">
-
-            <div class="col-md-5">
-
-                <strong>Title:</strong>
-
-                <input type="text" name="title" class="form-control" placeholder="Title">
-
-            </div>
-
-            <div class="col-md-5">
-
-                <strong>Image:</strong>
-
-                <input type="file" name="image" class="form-control">
-
-            </div>
-
-            <div class="col-md-2">
-
-                <br/>
-
-                <button type="submit" class="btn btn-success">Upload</button>
-
-            </div>
-
-        </div>
-
-
-    </form> 
-
-
-    <div class="row">
-
-    <div class='list-group gallery'>
-
-
-            @if($images->count())
-
-                @foreach($images as $image)
-
-                <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-
-                    <a class="thumbnail fancybox" rel="ligthbox" href="/images/{{ $image->image }}">
-
-                        <img class="img-responsive" alt="" src="/images/{{ $image->image }}" />
-
-                        <div class='text-center'>
-
-                            <small class='text-muted'>{{ $image->title }}</small>
-
-                        </div> <!-- text-center / end -->
-
-                    </a>
-
-                    <form action="{{ url('index',$image->id) }}" method="POST">
-
-                    <input type="hidden" name="_method" value="delete">
-
-                    {!! csrf_field() !!}
-
-                    <button type="submit" class="close-icon btn btn-danger"><i class="glyphicon glyphicon-remove"></i></button>
-
-                    </form>
-
-                </div> <!-- col-6 / end -->
-
-                @endforeach
-
-            @endif
-
-
-        </div> <!-- list-group / end -->
-
-    </div> <!-- row / end -->
-
-</div> <!-- container / end -->
-  </section>
-@endsection
-
-
-@section('produtos_emcontrucao')
-  <section id="produtos">
-     
-		
-      <div class="container wow fadeInUp">
-        <div class="row">
-            <div class="col-md-12">
-              <h3 class="section-title">Produtos em Oferta</h3>
-              <div class="section-title-divider"></div>
-              <p class="section-description">Mostre aqui o seu produto</p>
-            </div>
-          </div>
-
-                    
-
-          @if($images->count())
-
-              
-              <div class='table-responsive'>
-                    <table class="table table-striped table-bordered">
-                      <thead class="thead-dark">
-                        <tr class="text-center">
-                          <th>#</th>
-                          <th>Produto</th>
-                          <th>Descrição</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                  
-                        @foreach($images as $image)
-
-                            <tr>
-
-                              <td> 
-                                    <p class="list-group-item-text">{{ $image->id }} </p>
-                              </td>
-
-                              <td>   
-                                
-                                    <img class="img-responsive" alt="" src="/images/{{ $image->image }}" width="304" height="228" />
-                                  
-                              </td>
-                              
-                              <Td>
-                                    <p class="list-group-item-text">{{ $image->title }} </p>
-                              </td>
-                            </tr>                   
-
-                                          
-                        @endforeach
-                      </tbody>
-                    </table>
-              
-              </div> <!-- col-6 / end -->
-
-              
-          @endif
-         
-
-      </div> <!-- container / end -->
-  </section>
-@endsection
-
-
-
-@section('produtosxxxxxxxx')
-  <section id="produtos">
-     
-		
-      <div class="container wow fadeInUp">
-        <div class="row">
-            <div class="col-md-12">
-              <h3 class="section-title">Marketplace</h3>
-              <div class="section-title-divider"></div>
-              <p class="section-description">Em Construção</p>
-            </div>
-          </div>
-
-                 
-
-         
-         
-
-      </div> <!-- container / end -->
-  </section>
-@endsection

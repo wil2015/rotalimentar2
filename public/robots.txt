@@ -1,2 +1,3 @@
 User-agent: *
-Allow:
+Disallow:
+Sitemap: http://www.rotalimentar.com/public/sitemap.xml

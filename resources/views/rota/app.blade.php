@@ -203,7 +203,7 @@
           <img itemprop="image" class=""  src="{{ asset('img/logo.png') }}" alt="Imperial">
         </div>
 
-        <h1>Bem vindo a <span itemprop="name">Rotalimentar</span></h1>
+        <h1>Bem vindo a <span itemprop="name">Rotalimentarr</span></h1>
         <h2>Nós auxiliamos <span class="rotating">Fornecedores, Compradores</span></h2>
         <div class="actions">
           <a href="#about" class="btn-get-started">Quem Somos</a>

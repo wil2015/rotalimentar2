@@ -196,14 +196,14 @@
   <!--==========================
   Hero Section
   ============================-->
-  <section id="hero">
+  <span itemscope itemtype="http://schema.org/LocalBusiness"><section id="hero">
     <div class="hero-container">
       <div class="wow fadeIn">
         <div class="hero-logo">
-          <img class=""  src="{{ asset('img/logo.png') }}" alt="Imperial">
+          <img itemprop="image" class=""  src="{{ asset('img/logo.png') }}" alt="Imperial">
         </div>
 
-        <h1>Bem vindo a Rotalimentar</h1>
+        <h1>Bem vindo a <span itemprop="name">Rotalimentar</span></h1>
         <h2>Nós auxiliamos <span class="rotating">Fornecedores, Compradores</span></h2>
         <div class="actions">
           <a href="#about" class="btn-get-started">Quem Somos</a>

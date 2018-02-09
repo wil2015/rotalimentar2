@@ -3,17 +3,18 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Rota Alimentar</title>
+  <title>Rotalimentar</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="agricultura, consultoria, vendas, alimentos, importacao, exportacao" name="keywords">
+  <meta content="Uma plataforma online de vendas para o mercado interno, exportação, importação, consultoria e marketing. Aberta a todos as empresas da área alimentar." name="description">
 
   <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-  <meta property="og:title" content="">
+  <meta property="og:title" content="Rotalimentar">
   <meta property="og:image" content="">
-  <meta property="og:url" content="">
-  <meta property="og:site_name" content="">
-  <meta property="og:description" content="">
+  <meta property="og:url" content="http://rotalimentar.com">
+  <meta property="og:type" content="agricultura.alimentos" />
+  <meta property="og:site_name" content="Rotalimentar">
+  <meta property="og:description" content="Uma plataforma online de vendas para o mercado interno, exportação, importação, consultoria e marketing. Aberta a todos as empresas da área alimentar.">
 
   <!-- Twitter Cards integration: https://dev.twitter.com/cards/  -->
   <meta name="twitter:card" content="summary">
@@ -233,13 +234,13 @@
      <!--     <li><a href="#testimonials">Testimonials</a></li>
           <li><a href="#team">Team</a></li>  -->
           <li><a href="#contact">Contate-nos</a></li>
-          <li class="menu-has-children"><a href="#produtos">Marketplace</a>
-                <ul>
+          <li class="menu-has-children"><a href="https://plataformarotalimentar.top">Marketplace</a>
+            <!--    <ul>
                   <li><a href="">Em Construçãos</a></li>
-       <!--           <li><a href="#">Compradores</a></li>
+                  <li><a href="#">Compradores</a></li>
                   <li><a href="">Serviços</a></li>
-                   <li><a href="">Mercado Futuro</a></li>  -->
-                </ul>
+                   <li><a href="">Mercado Futuro</a></li>  
+                </ul>  -->
           </li>
           <!--
           <li class="menu-has-children"><a href="">Drop Down</a>

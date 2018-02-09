@@ -17,12 +17,14 @@
         </div>
       </div>
         <div class="row">
+            <div itemscope itemtype ="http://schema.org/VideoObject">
               <div class="col-md-6">
                   <div class="embed-responsive embed-responsive-16by9 ">
                       
                       <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/rSd-VWQGkvk" frameborder="0" allowfullscreen></iframe>
                   </div>
-              </div>                          
+              </div> 
+            </div>                         
               <div class="col-md-6">  
                   <div class="embed-responsive embed-responsive-16by9">
                       

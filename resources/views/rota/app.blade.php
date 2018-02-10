@@ -270,7 +270,7 @@
 
       <!-- #nav-menu-container -->
     </div>
-  </header>
+  </header></span>
   <!-- #header -->
   @show
   @yield('produtosnnnnn')
@@ -324,7 +324,43 @@
  <script src="{{ asset('js/custom.js') }}"></script>
 
  <script src="{{ asset('contactform/contactform.js') }}"></script>
-
+ <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Rotalimentar",
+    "image": "http://www.rotalimentar.com/img/logo.png",
+    "@id": "",
+    "url": "http://www.rotalimentar.com",
+    "telephone": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "",
+      "postalCode": "",
+      "addressCountry": "BR"
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/RotAlimentar/",
+      "https://www.instagram.com/rotalimentar/",
+      "https://www.youtube.com/watch?v=z1O50PyisIE"
+    ]
+  }
+  </script>
 
 </body>
 

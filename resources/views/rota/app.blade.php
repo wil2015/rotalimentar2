@@ -327,6 +327,16 @@
  <script type="application/ld+json">
   {
     "@context": "http://schema.org",
+    "@type": "Corporation",
+    "name": "Rotalimentar",
+    "alternateName": "Rotalimentar",
+    "url": "http://www.rotalimentar.com",
+    "logo": "http://www.rotalimentar.com/img/logo.png"
+  }
+  </script>
+ <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
     "@type": "ProfessionalService",
     "name": "Rotalimentar",
     "image": "http://www.rotalimentar.com/img/logo.png",

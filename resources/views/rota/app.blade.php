@@ -7,7 +7,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="agricultura, consultoria, vendas, alimentos, importacao, exportacao" name="keywords">
   <meta content="Uma plataforma online de vendas para o mercado interno, exportação, importação, consultoria e marketing. Aberta a todos as empresas da área alimentar." name="description">
-
+  <META CONTENT="0" HTTP-EQUIV="EXPIRES" />
   <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
   <meta property="og:title" content="Rotalimentar">
   <meta property="og:image" content="">

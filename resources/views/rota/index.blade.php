@@ -98,11 +98,11 @@
     <div class="container wow fadeInUp">
       <div class="row">
         <div class="col-md-8">
-          <h3 class="subscribe-title">Assine nossas Noticiass</h3>
+          <h3 class="subscribe-title">Noticias</h3>
           <p class="subscribe-text">Fique por dentro das novidades do agronegócio</p>
         </div>
-        <div class="col-md-4 subscribe-btn-container">
-          <a class="subscribe-btn" href="#">Assine</a>
+   <!--     <div class="col-md-4 subscribe-btn-container">
+          <a class="subscribe-btn" href="#">Assine</a>   -->
         </div>
       </div>
     </div>

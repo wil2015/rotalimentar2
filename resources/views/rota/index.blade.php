@@ -125,88 +125,90 @@
 
       <div class="row">
         
-        <div class=" col-md-3 hovereffect">
-            
-                <img src="img/parceiros/servconvex.png"  class="img-thumbnail" alt="Cinque Terre">
-                <div class="overlay">
-                  <p class="info">Especializada em logística direcionada ao comércio exterior, seja importação e/ou exportação.</p>
-                </p>
+                <div class=" col-md-3 hovereffect">
+                    
+                        <img src="img/parceiros/servconvex.png"  class="img-thumbnail" alt="Cinque Terre">
+                        <div class="overlay">
+                          <p class="info">Especializada em logística direcionada ao comércio exterior, seja importação e/ou exportação.</p>
+                        </p>
+                        </div>
+                </div>         
+                <div class="col-md-3 hovereffect">
+                    <img src="img/parceiros/beta2.jpg"  class="img-thumbnail" alt="">
+                    <div class="overlay">
+                      <p class="info">Consultorias, projetos e equipamentos em gastrnomia. </p>
+                    </div>
                 </div>
-             
-            </div>         
-        <div class="col-md-3 hovereffect">
-            <img src="img/parceiros/beta2.jpg"  class="img-thumbnail" alt="">
-            <div class="overlay">
-               <p class="info">Consultorias, projetos e equipamentos em gastrnomia. </p>
-             </div>
-        </div>
 
-        <div class="col-md-3 hovereffect">
-            <img src="img/parceiros/cengesa.jpg"  class="img-thumbnail" alt="">
-             <div class="overlay">
-               <p class="info">Valdo Pistorio - Centro Gestor de Agronegócio</p>
-             </div>
-        </div>
-
-        <div class="col-md-3 hovereffect">
-            <img src="img/parceiros/ibecon.png"  class="img-thumbnail" alt="">
-            <div class="overlay">
-
-               <p class="info">Comunidade online de agricultores do Brasil.</p>
-             </div>
-         
-        </div>
-
-        <div class="col-md-3">
-            <div class="hovereffect">
-            
-                <img src="img/parceiros/DHN.jpg"  class="img-thumbnail" alt="Cinque Terre">
-                <div class="overlay">
-                  <p class="info">Comercialização de diversas commodities, principalmente açúcar para exportação e mercado interno.</p>
+                <div class="col-md-3 hovereffect">
+                    <img src="img/parceiros/cengesa.jpg"  class="img-thumbnail" alt="">
+                    <div class="overlay">
+                      <p class="info">Valdo Pistorio - Centro Gestor de Agronegócio</p>
+                    </div>
                 </div>
-          
-            </div>
-        </div>
 
-        <div class="col-md-3">
-            <div class="hovereffect">
-              <img src="img/parceiros/JAT.jpg"  class="img-thumbnail" alt="Cinque Terre">
-              <div class="overlay">
-                <p class="info">Comercialização de commodities e consultoria de novos negócios no mercado nacional e internacional.</p>
-              </div>
-            </div>
-        </div>
+                <div class="col-md-3 hovereffect">
+                    <img src="img/parceiros/ibecon.png"  class="img-thumbnail" alt="">
+                    <div class="overlay">
 
-        <div class="col-md-3">
-            <div class="hovereffect">
-            <img src="img/parceiros/ream.png"  class="img-thumbnail" alt="Cinque Terre">
-             <div class="overlay">
-                <p class="info">Serviços em RH e cursos direcionados ao agronegocio.</p>
-              </div>
-             </div>
-        </div>
+                      <p class="info">Comunidade online de agricultores do Brasil.</p>
+                    </div>
+                
+                </div>
 
+        </div>
+        <div class="row">
+                <div class="col-md-3">
+                    <div class="hovereffect">
+                    
+                        <img src="img/parceiros/DHN.jpg"  class="img-thumbnail" alt="Cinque Terre">
+                        <div class="overlay">
+                          <p class="info">Comercialização de diversas commodities, principalmente açúcar para exportação e mercado interno.</p>
+                        </div>
+                  
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="hovereffect">
+                      <img src="img/parceiros/JAT.jpg"  class="img-thumbnail" alt="Cinque Terre">
+                      <div class="overlay">
+                        <p class="info">Comercialização de commodities e consultoria de novos negócios no mercado nacional e internacional.</p>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="hovereffect">
+                    <img src="img/parceiros/ream.png"  class="img-thumbnail" alt="Cinque Terre">
+                    <div class="overlay">
+                        <p class="info">Serviços em RH e cursos direcionados ao agronegocio.</p>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="hovereffect">
+                    
+                        <img src="img/parceiros/Suppliers.png"  class="img-thumbnail" alt="Cinque Terre">
+                        <div class="overlay">
+                          
+                          <p class="info">Empresa Internacional especializada em comércio Global.</p>
+                        </div>
+                      
+                    </div>
+                </div>
+        </div>
+      <div class="row">
         <div class="col-md-3">
              <div class="hovereffect">
-            
-                <img src="img/parceiros/Suppliers.png"  class="img-thumbnail" alt="Cinque Terre">
+                <img src="img/parceiros/akifaz2.png"  class="img-responsive" alt=""  style="display: block; max-width:100%;  height:auto;">
                 <div class="overlay">
-                   
-                  <p class="info">Empresa Internacional especializada em comércio Global.</p>
+                    <p class="info">Comercialização e fabricação da cor da tinta para automoveis ou qualquer outro metal.</p>
                 </div>
-              
             </div>
         </div>
-
-        <div class="col-md-3">
-             <div class="hovereffect">
-            <img src="img/parceiros/akifaz2.png"  class="img-responsive" alt=""  style="display: block; max-width:100%;  height:auto;">
-            <div class="overlay">
-                 <p class="info">Comercialização e fabricação da cor da tinta para automoveis ou qualquer outro metal.</p>
-             </div>
-            
-        </div>
-        </div>
+        
          <div class="col-md-3">
             
                <div class="hovereffect">
@@ -226,7 +228,17 @@
                        <p class="info">Contabilidade e Assessoria Empresarial Advogado Ricardo Gandini (OAB/MS 15.209) Contador Sebastião Gandini.  </p>
                        
                   </div>
+                 
+               </div>
+        </div>
+         <div class="col-md-3">
+             <div class="hovereffect">
+                <img src="img/parceiros/casmor.jpg"  alt="" class="img-thumbnail" style="display: block; max-width:120%  height:auto;">
+                  <div class="overlay">
+                       <p class="info">Comércio internacional. Commodities Agrícolas, Metais Preciosos e Pedras Preciosas.  </p>
+                       
                   </div>
+                  
                </div>
         </div>
 
